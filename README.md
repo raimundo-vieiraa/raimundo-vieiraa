@@ -1,9 +1,9 @@
-## Olá, mundo! Eu sou o Raimundo 👋
+## Olá, mundo! Eu sou o Raimundo 💻⚡
 
-🎓 Estudante de Engenharia de Software no UNICEPLAC  
-🐍 Apaixonado por Python, com foco em Testes de Software e Automação  
-🧠 Explorando inteligência artificial e boas práticas em desenvolvimento  
-📌 Sempre buscando aprendizado contínuo e aplicando o que estudo em projetos práticos
+- 🎓 Estudante de Engenharia de Software no UNICEPLAC  
+- 🐍 Apaixonado por Python, com foco em Testes de Software e Automação  
+- 🧠 Explorando inteligência artificial e boas práticas em desenvolvimento  
+- 📌 Sempre buscando aprendizado contínuo e aplicando o que estudo em projetos práticos
 
 ### 🚀 Projetos em destaque
 - **[delivery_express](https://github.com/raimundo-vieiraa/delivery_express)**: Primeira aplicação completa com Python, voltada para lógica e estrutura de dados  
