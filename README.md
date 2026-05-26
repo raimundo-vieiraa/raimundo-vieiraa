@@ -11,11 +11,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Atualmente atuo na First Decision com foco em Data & IA e Infraestrutura, trabalhando principalmente com modelagem de dados, ETL e migração de dados em projetos corporativos.
+Atualmente atuo na área de Dados com foco em ETL, modelagem e migração de dados em projetos corporativos.
 
-Possuo conhecimentos em bancos de dados relacionais e não relacionais, Pentaho PDI, SQL, Power Designer, Python, Cloud e Git.
+Tenho experiência com integração, transformação e qualidade de dados, utilizando ferramentas e tecnologias voltadas para ambientes empresariais e processos de migração entre sistemas.
 
-Tenho interesse em Engenharia de Dados, arquitetura de dados e soluções voltadas para integração e transformação de informações em ambientes corporativos.
+Possuo interesse em Engenharia de Dados, automação, IA aplicada a dados, gestão de processos e melhoria contínua, buscando sempre unir visão técnica e estratégica na construção de soluções eficientes e escaláveis.
 
 ---
 
