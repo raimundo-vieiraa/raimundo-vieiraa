@@ -1,29 +1,78 @@
-## Olá, mundo! Eu sou o Raimundo 💻⚡
+# Olá, eu sou o Raimundo Vieira 👋
 
-- 🎓 Estudante de Engenharia de Software no UNICEPLAC  
-- 🐍 Apaixonado por Python, com foco em Testes de Software e Automação  
-- 🧠 Explorando inteligência artificial e boas práticas em desenvolvimento  
-- 📌 Sempre buscando aprendizado contínuo e aplicando o que estudo em projetos práticos
+💾 Estagiário na área de Dados com foco em Migração, Integração e Transformação de Dados.
 
-### 🚀 Projetos em destaque
-- **[delivery_express](https://github.com/raimundo-vieiraa/delivery_express)**: Primeira aplicação completa com Python, voltada para lógica e estrutura de dados  
-- **[Test_Unit](https://github.com/raimundo-vieiraa/Test_Unit)**: Aplicação de testes unitários com `unittest`  
-- **[Python](https://github.com/raimundo-vieiraa/Python)**: Repositório com estudos e desafios resolvidos em Python
-
-### 💻 Tecnologias e Ferramentas
-- Linguagens: `Python`, `HTML`, `CSS`
-- Ferramentas: `Git`, `GitHub`, `VS Code`
-- Estudando: Testes de Software, Orientação a Objetos, POO em Python, IA aplicada
-
-### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raimundo-vieiraa-377144283/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:raimundoruan61@gmail.com)
+🎓 Estudante de Engenharia de Software no UNICEPLAC  
+⚙️ Experiência com processos ETL, modelagem relacional e manipulação de dados  
+📊 Interesse em Engenharia de Dados, Data Warehouse e Arquitetura de Dados  
+🚀 Construindo projetos práticos voltados para migração de sistemas legados e integração de dados
 
 ---
-🟢 *"Construindo minha carreira na prática, um commit por vez!"*
+
+## 🚀 Projetos em Destaque
+
+### 🔹 ETL & Migração de Dados
+Projetos voltados para integração, transformação e migração de dados entre sistemas.
+
+- Em desenvolvimento...
+
+### 🔹 Modelagem e Banco de Dados
+Projetos focados em estruturação, organização e modelagem de dados relacionais.
+
+- Em desenvolvimento...
+
+### 🔹 Automação e Scripts
+Automações utilizando Python para apoio em processos de dados.
+
+- Em desenvolvimento...
 
 ---
-📊 **Estatísticas GitHub**
 
-![Raimundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundo-vieiraa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo-vieiraa&layout=compact&theme=tokyonight)
+## 💻 Tecnologias e Ferramentas
+
+### 🗄️ Banco de Dados
+`SQL Server` • `PostgreSQL` • `MySQL`
+
+### ⚙️ ETL & Integração
+`Pentaho PDI` • `SAP Data Services`
+
+### 📊 Dados & BI
+`Power BI` • `Modelagem Relacional` • `Data Warehouse`
+
+### 💻 Linguagens
+`SQL` • `Python`
+
+### 🔧 Ferramentas
+`Git` • `GitHub` • `VS Code`
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Dados
+- Arquitetura de Dados
+- ETL e Pipelines
+- Data Warehouse
+- Modelagem Dimensional
+- Microsoft Fabric
+- Cloud & Dados
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-vieiraa-377144283/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:raimundoruan61@gmail.com)
+
+---
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundo-vieiraa&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo-vieiraa&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+⭐ Sempre buscando evoluir profissionalmente através da prática, aprendizado contínuo e construção de projetos reais.
