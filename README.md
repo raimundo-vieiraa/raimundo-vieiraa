@@ -22,19 +22,22 @@ Tenho interesse em Engenharia de Dados, arquitetura de dados e soluções voltad
 ## 💻 Tecnologias e Ferramentas
 
 ### 🗄️ Banco de Dados
-`SQL Server` • `PostgreSQL` • `MySQL`
+`SQL Server` • `PostgreSQL` • `MySQL` • `DBeaver`
 
 ### ⚙️ ETL & Integração
-`Pentaho PDI` • `SAP Data Services`
+`Pentaho PDI` • `SAP Data Services` • `SAP GUI` • `SAP Power Designer`
 
 ### 📊 Dados & BI
 `Power BI` • `Modelagem Relacional` • `Data Warehouse`
 
+### 🤖 IA & Automação
+`IA Generativa` • `IA aplicada a Dados` • `Automação de Processos` • `Prompt Engineering`
+
 ### 💻 Linguagens
-`SQL` • `Python`
+`SQL` • `Python` • `Java` • `HTML e CSS`
 
 ### 🔧 Ferramentas
-`Git` • `GitHub` • `VS Code`
+`Git` • `GitHub` • `VS Code` • `Anaconda`
 
 ---
 
